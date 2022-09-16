@@ -1,4 +1,10 @@
 # assign-git
-Darshan Navadiya
+<<<<<<< HEAD
+Darshan Navadiya <br />
 First change <br />
-This is a change on testbranch2
+testbranch change
+=======
+Darshan Navadiya <br />
+First change <br />
+testbranch change
+>>>>>>> main
