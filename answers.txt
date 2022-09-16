@@ -1,0 +1,7 @@
+1. gitignore file contains file extensions that we don't want git to track in out repository.
+   For a java project, gitignore template should be selected java while creating the repo in GitHub.
+2. fast-forward means that the pointer in the main branch is pointed toward the feature branch in
+   VC. Thus, all commits made in the feature branch will be reflected in main branch.
+3. Branches allow multiple people to work on different feature simultaneously. And when the feature
+    is fully implemented, they should be merged one by one to the main branch.
+4. In project, there is only one remote Git repository.
